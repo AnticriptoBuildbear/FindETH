@@ -5,13 +5,13 @@ exports[`renders a snapshot 1`] = `
   noMargin={false}
 >
   <StyledAddress__StyledIdenticon
-    address="0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520"
+    address="0x7b3cc5fc0f03a17259d575d62cb82182de07b961"
   />
   <Styled(styled.p)
     muted={true}
     noMargin={true}
   >
-    0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520
+    0x7b3cc5fc0f03a17259d575d62cb82182de07b961
   </Styled(styled.p)>
 </StyledAddress__StyledAddressContainer>
 `;
